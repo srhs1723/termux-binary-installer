@@ -3,14 +3,12 @@
 ### Because typing `chmod +x` then `./` then `cp` is basically a war crime at this point.
 
 ---
-```
 <p align="center">
   <img src="https://img.shields.io/badge/written%20in-C-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/powered%20by-RAGE-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/works%20on-termux-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/bugs-yes-orange?style=for-the-badge" />
 </p>
-```
 ---
 
 ## 🤔 What is this?
@@ -20,6 +18,8 @@ You know that feeling when you download a binary in Termux and then you gotta do
 ```bash
 chmod +x coolscript
 cp coolscript /data/data/com.termux/files/usr/bin/
+```
+
 And you're sitting there like a medieval scribe hand-copying manuscripts?
 
 TMUXI fixes that.
